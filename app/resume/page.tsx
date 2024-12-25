@@ -202,12 +202,11 @@ const Resume: React.FC = () => {
             <li>
               <strong>Mr. Tindizirarira Silver:</strong> Principal Inspector |
               Ministry of Local Government | Workers House, Plot 1 Pilkington
-              Road Kampala | Telephone: 0752820554 | Email: tindis2013@gmail.com
+              Road Kampala | Email: tindis2013@gmail.com
             </li>
             <li>
               <strong>Mr. Mujulizi Keith:</strong> Retail Supervisor | Airtel
-              Service Centre Kiboga | Telephone: 0702585383 | Email:
-              mujulizikth68@gmail.com
+              Service Centre Kiboga | Email: mujulizikth68@gmail.com
             </li>
           </ul>
         </section>
