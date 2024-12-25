@@ -1,0 +1,54 @@
+/* home.css */
+.home-container {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.home-header {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+.home-header h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+
+.home-header p {
+  margin: 5px 0 15px;
+  font-size: 1.2rem;
+}
+
+.home-nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #007bff;
+}
+
+.home-main {
+  padding: 20px;
+}
+
+.about-section,
+.projects-section {
+  margin-bottom: 20px;
+}
+
+.about-section h2,
+.projects-section h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.projects-section ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.home-footer {
+  text-align: center;
+  background-color: #f4f4f4;
+  padding: 10px;
+  font-size: 0.9rem;
+}

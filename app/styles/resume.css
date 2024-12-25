@@ -1,0 +1,29 @@
+/* resume.css */
+.resume-container {
+  font-family: Arial, sans-serif;
+  color: #333;
+  padding: 20px;
+}
+
+.resume-container header {
+  text-align: center;
+}
+
+.resume-container h1 {
+  margin-bottom: 20px;
+  font-size: 2.2rem;
+}
+
+.resume-container section {
+  margin-bottom: 20px;
+}
+
+.resume-container h2 {
+  font-size: 1.8rem;
+  margin-bottom: 10px;
+}
+
+.resume-container ul {
+  list-style-type: circle;
+  padding-left: 20px;
+}
