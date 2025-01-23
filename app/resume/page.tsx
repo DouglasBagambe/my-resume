@@ -16,38 +16,52 @@ const Resume: React.FC = () => {
             Capability Statement
           </h2>
           <p className="text-gray-600 leading-relaxed">
-            I am a highly skilled professional with strong analytical and
-            problem-solving abilities, combined with a diverse technical skill
-            set. I have extensive experience in Blockchain and Web3
-            technologies, with a focus on Artificial Intelligence (AI) and
-            Machine Learning (ML).
+            I am a highly skilled professional with extensive expertise in
+            Blockchain and Web3 technologies, specializing in Artificial
+            Intelligence (AI), Machine Learning (ML), and decentralized systems.
+            As a lead Web3 practitioner in Uganda, I have developed numerous
+            decentralized applications (dApps) with a particular focus on the
+            Solana ecosystem.
           </p>
+          <div className="text-gray-600 leading-relaxed mt-4">
+            <strong>Technical Expertise:</strong>
+            <ul className="list-disc list-inside pl-4">
+              <li>Blockchain Platforms: Ethereum, Polkadot, Solana</li>
+              <li>Smart Contract Languages: Solidity, Rust</li>
+              <li>
+                Programming Languages: Python, Java, C++, C#, JavaScript, PHP,
+                Kotlin, React, Dart
+              </li>
+              <li>Web Technologies: HTML, CSS, Node.js</li>
+              <li>Backend Technologies: Node.js, Express</li>
+              <li>Embedded Systems Integration</li>
+            </ul>
+          </div>
+          <div className="text-gray-600 leading-relaxed mt-4">
+            <strong>Key Strengths:</strong>
+            <ul className="list-disc list-inside pl-4">
+              <li>Advanced dApp development</li>
+              <li>Tokenization and DeFi solutions</li>
+              <li>Machine learning model development</li>
+              <li>Neural network and automation systems</li>
+              <li>Ethical hacking</li>
+              <li>High-performance application design</li>
+            </ul>
+          </div>
+          <div className="text-gray-600 leading-relaxed mt-4">
+            <strong>Specialized Skills:</strong>
+            <ul className="list-disc list-inside pl-4">
+              <li>Solana blockchain development</li>
+              <li>Rust programming for blockchain and systems</li>
+              <li>Cross-platform application development</li>
+              <li>Hardware-software integration</li>
+              <li>Performance optimization</li>
+            </ul>
+          </div>
           <p className="text-gray-600 leading-relaxed mt-4">
-            I have worked with Solidity for smart contracts and Rust for
-            high-performance applications, along with the Ethereum and Polkadot
-            ecosystems. My expertise also includes developing decentralized
-            applications (dApps), tokenization, and DeFi solutions, which are
-            central to my current work. I am equally passionate about AI and ML,
-            having developed machine learning models, neural networks, and
-            automation systems for both personal and professional projects.
-          </p>
-          <p className="text-gray-600 leading-relaxed mt-4">
-            I am proficient in a wide range of programming languages, including
-            Python, Java, C++, C#, JavaScript, PHP, HTML, CSS, Kotlin, React,
-            Dart, Solidity, and Rust. These skills enable me to build robust
-            applications across web, mobile, and embedded systems platforms. I
-            also have hands-on experience with Embedded Systems, allowing me to
-            integrate hardware and software seamlessly.
-          </p>
-          <p className="text-gray-600 leading-relaxed mt-4">
-            In addition to my technical skills, I have experience in ethical
-            hacking, having participated in various ethical hacking competitions
-            and consistently performing at a high level.
-          </p>
-          <p className="text-gray-600 leading-relaxed mt-4">
-            I am organized, efficient, and a strong communicator, capable of
-            working independently or collaboratively to deliver high-quality
-            results.
+            I am a strong communicator with the ability to work independently or
+            collaboratively, consistently delivering high-quality technical
+            solutions across web, mobile, and embedded platforms.
           </p>
         </section>
 
@@ -102,62 +116,66 @@ const Resume: React.FC = () => {
           </h2>
           <ul className="list-disc list-inside space-y-4 text-gray-600">
             <li>
-              Advanced Computer Skills: Proficient in MS Word, Excel,
-              PowerPoint, and LaTeX. Comfortable with a wide range of
+              <strong>Advanced Computer Skills:</strong> Proficient in MS Word,
+              Excel, PowerPoint, and LaTeX. Comfortable with a wide range of
               productivity and data management tools.
             </li>
             <li>
-              Programming Expertise: Strong skills in web and mobile development
-              using programming languages including Python, Java, C++,
-              JavaScript, C#, PHP, HTML, CSS, Kotlin, Dart, Solidity, Rust,
-              React, and more. Experienced in Blockchain development with
+              <strong>Programming Expertise:</strong> Strong skills in web and
+              mobile development using programming languages including Python,
+              Java, C++, JavaScript, C#, PHP, HTML, CSS, Kotlin, Dart, Solidity,
+              Rust, React, and more. Experienced in Blockchain development with
               Solidity, Rust, and Web3 technologies.
             </li>
             <li>
-              Machine Learning and AI: Proficient in developing machine learning
-              models, neural networks, and AI-driven solutions. Hands-on
-              experience with both personal and client-oriented projects,
-              including advanced systems like language audio translation AI and
-              behavioral monitoring systems.
+              <strong>Machine Learning and AI:</strong> Proficient in developing
+              machine learning models, neural networks, and AI-driven solutions.
+              Hands-on experience with both personal and client-oriented
+              projects, including advanced systems like language audio
+              translation AI and behavioral monitoring systems.
             </li>
             <li>
-              Blockchain and Web3 Development: Expertise in creating
-              decentralized applications (dApps), smart contracts, and working
-              within the Ethereum and Polkadot ecosystems. Experience in
-              developing NFT marketplaces and exploring DeFi solutions.
+              <strong>Blockchain and Web3 Development:</strong> Advanced
+              expertise in creating decentralized applications (dApps), smart
+              contracts, and blockchain development across Ethereum, Polkadot,
+              and Solana ecosystems. Developed multiple high-impact projects
+              including a Solana-based crowdfunding dApp and an Ethereum/Base
+              crowdfunding platform, alongside numerous other blockchain
+              solutions with expertise in NFT marketplaces and DeFi
+              applications.
             </li>
             <li>
-              Ethical Hacking: Well-versed in ethical hacking practices,
-              demonstrated by success in competitions such as PICO CTF, where I
-              ranked third nationally in Uganda in 2023.
+              <strong>Ethical Hacking:</strong> Well-versed in ethical hacking
+              practices, demonstrated by success in competitions such as PICO
+              CTF, where I ranked third nationally in Uganda in 2023.
             </li>
             <li>
-              Numerical and Analytical Abilities: Strong quantitative skills,
-              capable of analyzing and interpreting complex datasets and
-              applying logical problem-solving techniques to generate actionable
-              insights.
+              <strong>Numerical and Analytical Abilities:</strong> Strong
+              quantitative skills, capable of analyzing and interpreting complex
+              datasets and applying logical problem-solving techniques to
+              generate actionable insights.
             </li>
             <li>
-              Communication Skills: Clear and concise communicator, both written
-              and verbal. Skilled at presenting technical concepts to
-              non-technical stakeholders.
+              <strong>Communication Skills:</strong> Clear and concise
+              communicator, both written and verbal. Skilled at presenting
+              technical concepts to non-technical stakeholders.
             </li>
             <li>
-              Interpersonal Skills: Collaborative team player with the ability
-              to build strong working relationships, adapt to diverse
-              environments, and contribute to the success of cross-functional
-              teams.
+              <strong>Interpersonal Skills:</strong> Collaborative team player
+              with the ability to build strong working relationships, adapt to
+              diverse environments, and contribute to the success of
+              cross-functional teams.
             </li>
             <li>
-              Teamwork and Collaboration: Demonstrated ability to work
-              effectively in both independent and team settings, contributing to
-              project success through active collaboration and shared
-              problem-solving.
+              <strong>Teamwork and Collaboration:</strong> Demonstrated ability
+              to work effectively in both independent and team settings,
+              contributing to project success through active collaboration and
+              shared problem-solving.
             </li>
             <li>
-              Adaptability and Learning: Eager to learn and quickly adapt to
-              emerging technologies, with a proactive approach to
-              self-improvement and professional development.
+              <strong>Adaptability and Learning:</strong> Eager to learn and
+              quickly adapt to emerging technologies, with a proactive approach
+              to self-improvement and professional development.
             </li>
           </ul>
         </section>
