@@ -13,7 +13,7 @@ const Work: React.FC = () => {
         {/* Current Role */}
         <section className="glass bg-opacity-90 p-8 rounded-lg shadow-lg bg-white transition-shadow duration-300">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">
-            Current Position
+            Current Positions
           </h2>
           <div className="space-y-4 text-gray-600">
             <div>
@@ -30,6 +30,29 @@ const Work: React.FC = () => {
                 security ecosystems. Leveraging blockchain technology to enhance
                 data integrity, privacy, and proactive threat prevention across
                 digital platforms.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-xl font-semibold">Truden Tech Ltd</h3>
+              <p className="text-gray-500">Blockchain Developer | July 2025 - Present</p>
+              <p>
+                Working on multiple blockchain projects and full stack engineering roles,
+                building scalable dApps, smart contracts, and modern web platforms.
+                Collaborating across teams to deliver secure, high-performance solutions
+                in production environments.
+              </p>
+            </div>
+            <div>
+              <h3 className="text-xl font-semibold">NileBit Labs</h3>
+              <p className="text-gray-500">Co‑Founder & CEO | Present</p>
+              <p>
+                A full‑stack technology company specializing in blockchain development,
+                AI‑driven products, and end‑to‑end software engineering. Leading strategy
+                and delivery of secure, scalable systems—from smart contracts and dApps to
+                modern web platforms and cloud services.
+              </p>
+              <p>
+                Website: <a href="https://nilebitlabs.com" target="_blank" rel="noopener noreferrer" className="underline text-gray-700 hover:text-gray-900">nilebitlabs.com</a>
               </p>
             </div>
           </div>

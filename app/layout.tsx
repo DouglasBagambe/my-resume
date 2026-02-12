@@ -114,7 +114,7 @@ export default function RootLayout({
               </a>
             </div>
             <p className="text-gray-500 animate-fadeInUp">
-              &copy; {new Date().getFullYear()} Ainamaani Douglas Bagambe
+              &copy; 2026 Ainamaani Douglas Bagambe
             </p>
           </div>
         </footer>
